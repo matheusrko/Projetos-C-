@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\FuncaoRecursiva.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\FuncaoRecursiva.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\FuncaoRecursiva.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\FuncaoRecursiva.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\FuncaoRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\FuncaoRecursiva.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\FuncaoRecursiva.pdb
