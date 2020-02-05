@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\EscolhaElementodaLista\EscolhaElementodaLista\bin\Debug\EscolhaElementodaLista.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\EscolhaElementodaLista\EscolhaElementodaLista\bin\Debug\EscolhaElementodaLista.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\EscolhaElementodaLista\EscolhaElementodaLista\bin\Debug\EscolhaElementodaLista.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\EscolhaElementodaLista\EscolhaElementodaLista\obj\Debug\EscolhaElementodaLista.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\EscolhaElementodaLista\EscolhaElementodaLista\obj\Debug\EscolhaElementodaLista.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\EscolhaElementodaLista\EscolhaElementodaLista\obj\Debug\EscolhaElementodaLista.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\EscolhaElementodaLista\EscolhaElementodaLista\obj\Debug\EscolhaElementodaLista.pdb
