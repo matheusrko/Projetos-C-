@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Médias de alunos dowhile\Médias de alunos dowhile\obj\Debug\Médias de alunos dowhile.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Médias de alunos dowhile\Médias de alunos dowhile\obj\Debug\Médias de alunos dowhile.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Médias de alunos dowhile\Médias de alunos dowhile\bin\Debug\Médias de alunos dowhile.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Médias de alunos dowhile\Médias de alunos dowhile\bin\Debug\Médias de alunos dowhile.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Médias de alunos dowhile\Médias de alunos dowhile\bin\Debug\Médias de alunos dowhile.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Médias de alunos dowhile\Médias de alunos dowhile\obj\Debug\Médias de alunos dowhile.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\Médias de alunos dowhile\Médias de alunos dowhile\obj\Debug\Médias de alunos dowhile.pdb
