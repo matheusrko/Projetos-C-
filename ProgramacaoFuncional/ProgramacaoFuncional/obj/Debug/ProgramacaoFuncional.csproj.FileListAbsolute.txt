@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\torne se programador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.pdb
