@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\PolimorfismoHerança\PolimorfismoHerança\bin\Debug\PolimorfismoHerança.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\PolimorfismoHerança\PolimorfismoHerança\bin\Debug\PolimorfismoHerança.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\PolimorfismoHerança\PolimorfismoHerança\bin\Debug\PolimorfismoHerança.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\PolimorfismoHerança\PolimorfismoHerança\obj\Debug\PolimorfismoHerança.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\PolimorfismoHerança\PolimorfismoHerança\obj\Debug\PolimorfismoHerança.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\PolimorfismoHerança\PolimorfismoHerança\obj\Debug\PolimorfismoHerança.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Visual Studio\PolimorfismoHerança\PolimorfismoHerança\obj\Debug\PolimorfismoHerança.pdb
